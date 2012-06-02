@@ -5,7 +5,7 @@
     <artifactId>play2-doma</artifactId>
     <packaging>jar</packaging>
     <description>play2-doma</description>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <name>play2-doma</name>
     <organization>
         <name>play2-doma</name>
